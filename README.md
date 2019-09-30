@@ -11,3 +11,5 @@ Repo for Team 8 :: Event - Google Cloud Developer Community New Delhi
  4. Create a pull request.
 ![enter image description here](https://github-images.s3.amazonaws.com/help/pull_requests/recently_pushed_branch.png)
 5. Notify the organisers.
+Just 
+follow
